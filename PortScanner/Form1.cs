@@ -128,7 +128,8 @@ namespace PortScanner
 
         private void buttonSave_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Results saved to text document, but not really because this isn't done.");
+            // Need to do this!!!
+            MessageBox.Show("Results saved to text document, but NOT really because this isn't done!");
         }
 
         private void buttonClear_Click(object sender, EventArgs e)
