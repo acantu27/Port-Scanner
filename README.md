@@ -1,6 +1,5 @@
 # Port Scanner
 
----
 
 A simple TCP port scanner. Not fully tested and functioning as of yet.
 
@@ -11,7 +10,6 @@ A simple TCP port scanner. Not fully tested and functioning as of yet.
 
 ## TODO
 
----
 
 - [ ] Test the port scan results
 - [ ] Add support for other protocols
