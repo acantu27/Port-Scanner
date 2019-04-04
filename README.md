@@ -4,7 +4,7 @@
 
 A simple TCP port scanner. Not fully tested and functioning as of yet.
 
-![](C:\Users\Alex\Projects\PortScanner\images\screenshot.png)
+![Screenshot](https://github.com/acantu27/Port-Scanner/blob/master/images/screenshot.png?raw=true)
 
 
 
